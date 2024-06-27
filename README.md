@@ -1,2 +1,2 @@
 # Galaxy-City-Hall
-galaxy-cityhall
+qb edit bir şehir merkezi scriptidir.
